@@ -58,6 +58,10 @@ git fetch and git pull are both commands in Git used to update your local reposi
 
 Git rebase is a Git command that allows you to change the way your changes are added to a branch. It's like rearranging or rewriting your commit history. It's a way to organize your commits in a cleaner and more linear way. Instead of merging changes into a branch, it moves your changes to the tip of another branch and it can make your commit history look more straightforward and easier to understand.
 
+The command is "$git rebase"
+
 ## Explain in simple terms git cherry-pick and the command for it
 
-Git cherry-pick is a Git command that allows you to pick specific commits from one branch and apply them to another branch. It's like selecting certain changes and copying them to a different branch.
+Git cherry-pick is a Git command that allows you to pick specific commits from one branch and apply them to another branch. It's like selecting certain changes and copying them to a different branch. This makes it very seful when you only want certain changes from one branch and not the entire branch.
+
+The command is "$git cherry-pick"
