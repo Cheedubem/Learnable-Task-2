@@ -7,11 +7,12 @@ It allows multiple contributors to work on a project simultaneously,
 providing a structured way to manage and organize changes.
 
 The primary goals of version control are to:
--Track changes
--Collaboration
--History and Rollback
--Branching and Merging
--Traceability
+
+- Track changes
+- Collaboration
+- History and Rollback
+- Branching and Merging
+- Traceability
 
 ## Explain difference between git and github
 
