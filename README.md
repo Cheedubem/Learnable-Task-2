@@ -50,6 +50,14 @@ Developers use GitHub to host their Git repositories remotely, making it easy to
 
 git fetch and git pull are both commands in Git used to update your local repository with changes from a remote repository
 
-- Fetching retrieves the latest changes from the remote repository to your local repository, but it does not automatically update your working directory or merge the changes into your local branch.
+- Fetching retrieves the latest changes from the remote repository to your local repository, but it does not automatically update your working directory or merge the changes into your local branch. It is often used to see what changes exist in the remote repository without incorporating those changes into your current working branch.
 
 - Pulling also retrieves changes from the remote repository, but it goes further by automatically updating your working directory and merging the changes into your current local branch. It is a convenient way to fetch changes and apply them to your local working branch in a single command.
+
+## Explain in simple terms git rebase and the command for it
+
+Git rebase is a Git command that allows you to change the way your changes are added to a branch. It's like rearranging or rewriting your commit history. It's a way to organize your commits in a cleaner and more linear way. Instead of merging changes into a branch, it moves your changes to the tip of another branch and it can make your commit history look more straightforward and easier to understand.
+
+## Explain in simple terms git cherry-pick and the command for it
+
+Git cherry-pick is a Git command that allows you to pick specific commits from one branch and apply them to another branch. It's like selecting certain changes and copying them to a different branch.
