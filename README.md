@@ -42,9 +42,9 @@ Developers use GitHub to host their Git repositories remotely, making it easy to
 
 ## List 3 other github alternatives
 
--GitLab
--BitBucket
--SourceForge
+- GitLab
+- BitBucket
+- SourceForge
 
 ## Explain the difference between git fetch and git pull
 
