@@ -39,3 +39,9 @@ Developers use GitHub to host their Git repositories remotely, making it easy to
 - Git is focused on version control operations such as branching, committing, merging.
 - GitHub adds collaboration features, project management tools, and a web interface to interact with Git repositories.
 - Git doesn't require an internet connection for basic version control operations but Github requires and internet connection.
+
+## List 3 other github alternatives
+
+-
+-
+-
